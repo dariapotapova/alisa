@@ -6,7 +6,6 @@ altgraph==0.17.2
 aniso8601==9.0.1
 anyio==3.5.0
 APScheduler==3.6.3
-apt-clone==0.2.1
 apturl==0.5.2
 argcomplete==1.8.1
 asgiref==3.4.1
